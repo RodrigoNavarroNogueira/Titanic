@@ -3,6 +3,10 @@ Repositório criado para a ***[competição do Kaggle sobre o desastre do Titani
 
 O histórico dos resultados é mostrado abaixo e pode ser obtido no Kaggle:
 
+- O ***score público retornado pelo Kaggle foi: 78.468***
+
+<img src="https://github.com/RodrigoNavarroNogueira/Titanic/blob/master/img/graph_chart_with_moving_up_arrow_stock_market_financial_investment_diagram_on_blue_background.jpg" />
+
 ## [Parte 1: EDA e Pré Processamento](https://github.com/RodrigoNavarroNogueira/Titanic/blob/master/titanic_1.ipynb)
 
 - Este projeto foi separado em 2 partes, espero mostrar como um cientista de dados agiria para resolver um problema. ***O objetivo é prever corretamente se alguém sobreviveu ao naufrágio do Titanic.***
@@ -31,5 +35,3 @@ O histórico dos resultados é mostrado abaixo e pode ser obtido no Kaggle:
   - *Teste de Hipotese com ANOVA e Tukey*
   - *Salvar e Carregar um Classificador já treinado*
   - *Combinação dos Modelos com Voting Classifier*
-  
-- O ***score público retornado pelo Kaggle foi: 78.468***
