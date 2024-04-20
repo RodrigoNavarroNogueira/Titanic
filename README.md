@@ -21,7 +21,7 @@ O histórico dos resultados é mostrado abaixo e pode ser obtido no Kaggle:
   - *Escalonamento dos Atributos*
   - *Transformação de Atributos Categóricos*
 
-## [Etapa 2: Criando os Modelos]()
+## [Etapa 2: Criando os Modelos](https://github.com/RodrigoNavarroNogueira/Titanic/blob/master/titanic_2.ipynb)
 - Na segunda etapa o foco principal foi criar, treinar e testar os modelos
 - Criamos os primeiros modelos sem parametros, depois fazer o tuning melhorando os desempenhos. Por fim executando uma combinação dos modelos e visualização dos resultados
 - Nesse projeto foi usado **7 algoritmos diferentes: Árvore de Classificação, Random Forest, KNN, SVM, Regressão Logística, Redes Neurias e Gradient Boosting**
