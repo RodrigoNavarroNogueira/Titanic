@@ -10,9 +10,8 @@ O histórico dos resultados é mostrado abaixo e pode ser obtido no Kaggle:
 ## [Parte 1: EDA e Pré Processamento](https://github.com/RodrigoNavarroNogueira/Titanic/blob/master/titanic_1.ipynb)
 
 - Este projeto foi separado em 2 partes, espero mostrar como um cientista de dados agiria para resolver um problema. ***O objetivo é prever corretamente se alguém sobreviveu ao naufrágio do Titanic.***
-- Nessa primeira parte iremos fazer toda a ***EDA e Data Cleaning juntos***, visualizando e tratando os dados. Depois ***criamos features*** e fazemos todo o ***pré-processamento***, por fim salvando todo o progresso para iniciar o treinamento de modelos na parte 2
+- Nessa primeira parte iremos fazer toda a ***EDA e Data Cleaning juntos***, visualizando e tratando os dados. Depois ***criamos features*** e fazemos todo o ***pré-processamento***, por fim salvando todo o progresso para iniciar o treinamento dos modelos na parte 2
 
-  - Importação das bibliotecas necessárias
   - *EDA (número de amostras, características disponíveis, tipos de dados, distribuição das características e resumo estatístico)*
   - *Exploração inicial dos dados*
   - *Visualização dos Dados*
