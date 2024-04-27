@@ -17,6 +17,7 @@ O histórico dos resultados é mostrado abaixo e pode ser obtido no Kaggle:
   - *Visualização dos Dados*
   - *Valores Inconsistentes*
   - *Valores Faltantes*
+  - *Feature Engineering*
   - *Escalonamento dos Atributos*
   - *Transformação de Atributos Categóricos*
 
